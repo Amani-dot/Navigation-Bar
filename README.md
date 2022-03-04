@@ -1,13 +1,14 @@
 
-# This is a little project of a responsive navbar 
+# This is a little project of a responsive navbar. 
 
 
 ### The challenge
 
-Was to make it responsive in all screeens especially Small devices
+Was to make it responsive in all screens especially. Small devices
 
 ### Screenshot
-
+ ![](Images/Mobiledesing.png)
+  ![](Images/Desktopdesing.png)
 ### Links
 
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
@@ -28,7 +29,7 @@ Started with html first and css second
 ### What I learned
 
 * Start with Mobile-first, then desktop
-* Best practises when doing navbar and what layouts to use 
+* Best practices when doing navbar and what layouts to use 
 
 `
 ```css
@@ -75,5 +76,4 @@ Add Animation for the links when they're hovered
 
 - Twitter - [@Amani-Off](https://www.twitter.com/@Amani-Off)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
