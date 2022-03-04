@@ -7,8 +7,8 @@
 Was to make it responsive in all screens especially. Small devices
 
 ### Screenshot
- ![](Images/Mobiledesing.png)
-  ![](Images/Desktopdesing.png)
+ ![](Images/desktop%20design.png)
+  ![](Images/Mobile%20desing.png)
 ### Links
 
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
