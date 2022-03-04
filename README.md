@@ -11,7 +11,7 @@ Was to make it responsive in all screens especially. Small devices
   ![](Images/Mobile%20design.png)
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://amani-dot.github.io/Navigation-Bar/](https://amani-dot.github.io/Navigation-Bar/)
 
 ## My process
 
